@@ -54,6 +54,21 @@ Mettre → Mis
 Ouvrir → Ouvert  
 Naître → Né  
 
+But since this is French, there are *even more* exceptions:
+
+For verbs that use reflexive pronouns, you have to put être between the reflexive pronoun and verb.
+
+Examples:
+
+Je me suis réveillé
+Tu te es rapelée
+Il se est appellé
+Elle se est relaxée
+Nous nous sommes brossé
+Vous vous êtes approché
+Ils se sont mis
+Elles se sont vu
+
 Examples:
 
 Je vois → J'ai vu  
