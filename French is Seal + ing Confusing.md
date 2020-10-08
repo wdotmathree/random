@@ -1,4 +1,6 @@
-# "Simple" guide to Passé Composé <span id="passe-compose"></span>
+# French is Seal + ing Confusing
+
+## "Simple" guide to Passé Composé <span id="passe-compose"></span>
 
 Most verbs use "avoir", and you conjugate like this:
 
@@ -82,7 +84,7 @@ Elles apprenent → Elles ont apprises
 
 ---
 
-# “Simple” guide to Passé Imparfait <span id="passe-imparfait"></span>
+## “Simple” guide to Passé Imparfait <span id="passe-imparfait"></span>
 
 For most verbs, you take the “nous” conjugation and replace the “ons” with:
 
@@ -108,7 +110,7 @@ Elles arrivent → Elles arrivons → Elles arriv → Elles arrivaient
 
 ---
 
-# Simple guide to Futur Proche[<sup>1</sup>](#f1) <span id="futur-proche"></span>
+## Simple guide to Futur Proche[<sup>1</sup>](#f1) <span id="futur-proche"></span>
 
 This one is a very simple one and I would assume that you know this one already, just put conjugated “aller” in between the subject and verb.
 
@@ -123,7 +125,7 @@ Elles vont découvrir
 
 ---
 
-# “Simple” guide to Futur Simple[<sup>2</sup>](#f2) <span id="futur-simple"></span>
+## “Simple” guide to Futur Simple[<sup>2</sup>](#f2) <span id="futur-simple"></span>
 
 This one can get mixed up with [conditionnel verb tense](#conditionnel) a lot since they sound very similar (the same for some). To use this, take the l’infinitif (works most of the time) and add:
 
@@ -148,7 +150,7 @@ Elles écouteront
 
 ---
 
-# “Simple” guide to conditionnel présent <span id="conditionnel"></span>
+## “Simple” guide to conditionnel présent <span id="conditionnel"></span>
 
 So to create this, you will take the starting of [futur simple](#futur-simple) and add the endings for the [passé imparfait](#passe-imparfait). Examples:
 
@@ -167,7 +169,7 @@ Elles jouent → Elles jouer → Elles joueraient
 
 ---
 
-# Extra things
+## Extra things
 
 <span id="f1"></span> You probably already know this one as it is generally taught in schools as the way to do future tense [↩](#futur-proche)  
 <span id="f2"></span> Even though it is called “Futur Simple” it is not simple at all [↩](#futur-simple)  
