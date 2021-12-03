@@ -63,9 +63,9 @@ For verbs that use reflexive pronouns, you have to put être between the reflexi
 Examples:
 
 Je me suis réveillé  
-Tu te es rapelée  
-Il se est appellé  
-Elle se est relaxée  
+Tu t'es rapelée  
+Il s'est appellé  
+Elle s'est relaxée  
 Nous nous sommes brossé les dents  
 Vous vous êtes approché  
 Ils se sont mis  
